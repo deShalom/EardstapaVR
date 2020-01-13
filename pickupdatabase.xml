@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PickUpCollection>
+<PickUps>
+<PickUp itmName="The Cube">
+<itmEffect>A symmetrical 6-sided shape.</itmEffect>
+</PickUp>
+<PickUp itmName="Saint Edwin of Northumbria's Bracer">
+<itmEffect>You've discovered the Bracer of Saint Edwin of Northumbria! King of Deria, and Bernica from 616 to 623. Upon his death at the Battle of Hatfield chase St Edwin was venerated as a Saint for his conversion from Paganism to Christianity. </itmEffect>
+</PickUp>
+<PickUp itmName="Saint Thomas Becket's Hairshirt">
+<itmEffect>You've discovered the Hairshirt discovered on the body of St Thomas Becket, following his murder in Canterbury Cathedral. Such shirts we're commonly made of rough animal hair, worm over the skin as a penance. </itmEffect>
+</PickUp>
+<PickUp itmName="Apple of Eden">
+<itmEffect>You've discovered the Forbidden Fruit, a great source of knowledge on good and evil. Not so good a snack, eat wisely. </itmEffect>
+</PickUp>
+<PickUp itmName="Saint Cuthbert's Diary">
+<itmEffect>You've discovered the diary of Saint Cuthbert. An Northumbrian Saint famed for his hermitage on this very Island.  </itmEffect>
+</PickUp>
+</PickUps>
+</PickUpCollection>
